@@ -1,5 +1,5 @@
 {
-  "name": "serverless-scraper",
+  "name": "aws-lambda-crawling-typescript",
   "version": "1.0.0",
   "description": "booking.com scraper based on serverless",
   "main": "index.ts",

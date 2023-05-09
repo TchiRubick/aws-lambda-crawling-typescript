@@ -41,3 +41,6 @@ typings
 .serverless
 .webpack
 tsc
+
+# build
+.build
