@@ -13,8 +13,5 @@
     "alwaysStrict": true,
     "esModuleInterop": true,
     "baseUrl": ".",
-    "paths": {
-      "@src/*": ["src/*"]
-    }
   }
 }
